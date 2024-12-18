@@ -1,3 +1,4 @@
+
 def Store():
     print ("You've just entered To the Egy Store ")
     print ("Do you take the Movie on the CD or the DVD?")
@@ -11,4 +12,5 @@ def Store():
         Store()
 
 Store()
+print ("FFFFaaaayez ")
 print ("FFFFaaaayez ")
